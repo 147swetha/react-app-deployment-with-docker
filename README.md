@@ -11,7 +11,7 @@ content.
 This project demonstrates:
 - CI/CD pipeline using Jenkins
 - Dockerizing a sample app
-- 
+- Automating the pipeline via Jenkins
 
 The Jenkins pipeline automates the 
 build, testing, and deployment processes, improving efficiency and 
